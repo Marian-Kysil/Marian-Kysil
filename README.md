@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">- C++ / C<br>- Python <br>- Embedded Systems<br>- PCB Design (Fusion360)<br>- Git / GitHub<br>- VS Code / PlatformIO</h4>
+<h4 align="left">- C++ / C<br>- Python (basic) <br>- Embedded Systems<br>- PCB Design (Fusion360)<br>- Git / GitHub<br>- VS Code / PlatformIO</h4>
 
 ###
 
